@@ -9,25 +9,24 @@ description: How to install Activepieces on Easypanel? 1-Click installation temp
 
 # Activepieces
 
-1-Click installation template for Activepieces on Easypanel
+Plantilla de instalación en 1 clic para Activepieces en Easypanel
 
-## Description
+## Descripción
 
-Activepieces is a powerful open-source business automation tool designed to streamline your work without the need for coding. It serves as an excellent alternative to Zapier, allowing you to automate your daily tasks or even your entire business with just a few clicks on the user interface. With Activepieces, you can enjoy the flexibility of using our 3rd party no-code apps to quickly read and write to your favorite apps. Currently, we support 74 apps and counting. The tool is self-hosted, ensuring your data remains on your machine, providing an added layer of security. Activepieces also offers infinite flexibility and powerful logging, making it a robust solution for business automation without limits.
+Activepieces es una potente herramienta de automatización empresarial de código abierto diseñada para optimizar su trabajo sin necesidad de programar. Es una excelente alternativa a Zapier, permitiéndole automatizar sus tareas diarias o incluso todo su negocio con solo unos clics en la interfaz de usuario. Con Activepieces, puede disfrutar de la flexibilidad de usar nuestras aplicaciones de terceros sin código para leer y escribir rápidamente en sus aplicaciones favoritas. Actualmente, admitimos 74 aplicaciones y seguimos sumando. La herramienta está alojada en su propio servidor, lo que garantiza que sus datos permanezcan en su equipo y proporciona una capa adicional de seguridad. Activepieces también ofrece una flexibilidad infinita y un potente sistema de registro, lo que la convierte en una solución robusta para la automatización empresarial sin límites.
 
-## Benefits
+## Beneficios
 
-- Business Automation Without Limits: Automate your daily tasks or your entire business with just a few clicks on the user interface. This app allows you to streamline your operations without interrupting your IT team.
-- Infinite Flexibility: The app offers infinite flexibility, allowing you to customize your automation processes to suit your specific needs. It's a powerful tool that can adapt to any business model or workflow.
-- Data Security: Keep your data on your machine. With this app, you have full control over your data, ensuring it remains secure and private.
-- Free and Open Source: This app is a free and open-source alternative to other business automation tools. It's a cost-effective solution for businesses looking to automate their processes without incurring high costs.
+- Automatización empresarial sin límites: Automatice sus tareas diarias o todo su negocio con solo unos clics en la interfaz de usuario. Esta aplicación le permite optimizar sus operaciones sin interrumpir a su equipo de TI. Flexibilidad infinita: La app ofrece una flexibilidad infinita, permitiéndote personalizar tus procesos de automatización según tus necesidades específicas. Es una herramienta potente que se adapta a cualquier modelo de negocio o flujo de trabajo.
+- Seguridad de datos: Mantén tus datos en tu equipo. Con esta app, tienes control total sobre tus datos, garantizando su seguridad y privacidad.
+- Gratuita y de código abierto: Esta app es una alternativa gratuita y de código abierto a otras herramientas de automatización empresarial. Es una solución rentable para empresas que buscan automatizar sus procesos sin incurrir en altos costos.
 
-## Features
+## Características
 
-- No-Code Powerful Logging: The app provides powerful logging features without the need for coding. This makes it easy for anyone to automate their work, regardless of their technical skills.
-- Self-Hosted: The app is self-hosted, meaning you can run it on your own server. This gives you complete control over your data and ensures it remains secure.
-- 74 Apps And Counting: The app supports integration with over 74 apps and counting. This allows you to automate tasks across multiple platforms, making your workflow more efficient.
-- Open Source Connectors: The app features open source connectors, allowing you to easily integrate it with other apps and platforms. This makes it a versatile tool that can be used in a variety of business contexts.
+- Registro potente sin código: La app ofrece potentes funciones de registro sin necesidad de programar. Esto facilita que cualquier persona automatice su trabajo, independientemente de sus habilidades técnicas.
+- Autoalojada: La app es autoalojada, lo que significa que puedes ejecutarla en tu propio servidor. Esto te da control total sobre tus datos y garantiza su seguridad.
+- 74 apps y sumando: La app se integra con más de 74 apps y sumando. Esto le permite automatizar tareas en múltiples plataformas, lo que aumenta la eficiencia de su flujo de trabajo.
+- Conectores de código abierto: La aplicación cuenta con conectores de código abierto que permiten integrarla fácilmente con otras aplicaciones y plataformas. Esto la convierte en una herramienta versátil que puede utilizarse en diversos contextos empresariales.
 
 ## Links
 
